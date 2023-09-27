@@ -21,9 +21,9 @@
       "preco": "200"
     },
     {
-      "id": "6df5ce4e-d594-495a-a2f8-908af9c0a229",
-      "nome": "Teclado Gamer",
-      "preco": 40
+      "id": 6,
+      "nome": "Teclado",
+      "preco": 150
     }
   ]
 }
