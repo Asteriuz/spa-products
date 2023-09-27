@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "nome": "Mouse",
+      "preco": 50
+    },
+    {
+      "id": 3,
+      "nome": "Monitor",
+      "preco": 950
+    },
+    {
+      "id": 4,
+      "nome": "Gabinete",
+      "preco": 550
+    },
+    {
+      "id": 5,
+      "nome": "Headset",
+      "preco": "200"
+    },
+    {
+      "id": "6df5ce4e-d594-495a-a2f8-908af9c0a229",
+      "nome": "Teclado Gamer",
+      "preco": 40
+    }
+  ]
+}
